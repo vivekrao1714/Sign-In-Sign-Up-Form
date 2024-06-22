@@ -1,2 +1,2 @@
 # Sign-In-Sign-Up-Form
-Sign In &amp; Sign Up Form using HTNL CSS javaScrip
+Sign In &amp; Sign Up Form using HTNL CSS javaScript
